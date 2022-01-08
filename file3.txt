@@ -1,2 +1,3 @@
 first commit is c1
 second commit is c2
+3rd commit is c3
